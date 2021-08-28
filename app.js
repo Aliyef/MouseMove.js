@@ -47,5 +47,5 @@ foto.addEventListener('mousedown', function() {
   //mouseup ------
   foto.addEventListener('mouseup', function() {
     foto.style.transform = 'perspective(500px) scale(1.1) rotateX(0) rotateY(0)'
-    foto.style.transition = '.15s'
+    foto.style.transition = '.8s'
   })
